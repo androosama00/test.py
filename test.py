@@ -23,5 +23,5 @@ class Client(discord.Client):
            
 
 client = Client()
-client.run('NjAxNzc4ODQxMTA2NTEzOTQw.XTSR5g.pNuVlYrPUs8y80SyjxMWvw8YOpk')
+client.run('BOT_TOKEN')
 
